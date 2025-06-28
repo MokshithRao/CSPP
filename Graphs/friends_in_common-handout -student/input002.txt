@@ -1,0 +1,2 @@
+{"Alice": ["Bob", "Charlie"],"Bob": ["David"],"Charlie": ["Eve"],"David": ["Bob"],"Eve": ["Charlie"]
+}
