@@ -1,0 +1,1 @@
+['image2.png', 'image3.gif']

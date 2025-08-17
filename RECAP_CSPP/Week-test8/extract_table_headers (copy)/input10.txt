@@ -1,0 +1,1 @@
+<table><tr><th>Header with <span>Span</span></th></tr></table>

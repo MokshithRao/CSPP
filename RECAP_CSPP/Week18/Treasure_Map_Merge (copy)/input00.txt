@@ -1,0 +1,2 @@
+{"gold": 100, "silver": 50}
+{"gold": 200, "silver": 25, "bronze": 30}

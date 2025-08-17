@@ -1,0 +1,2 @@
+{"key1": 10, "key2": "hello", "key3": 20}
+{"key1": 15, "key2": "world", "key4": "new"}

@@ -1,0 +1,1 @@
+<table><tr><th>OnlyHeader</th></tr><tr><td>Data1</td></tr></table>

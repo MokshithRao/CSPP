@@ -1,0 +1,1 @@
+{'clue1': 'northwest', 'clue2': 'east', 'clue3': 'south'}

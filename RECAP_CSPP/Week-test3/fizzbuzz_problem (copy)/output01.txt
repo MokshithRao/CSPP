@@ -1,0 +1,7 @@
+1
+Prime
+Prime
+4
+Prime
+Fizz
+Prime

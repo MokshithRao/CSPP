@@ -1,0 +1,15 @@
+1
+Prime
+Prime
+4
+Prime
+Fizz
+Prime
+8
+Fizz
+Buzz
+Prime
+Fizz
+Prime
+Boom
+FizzBuzz

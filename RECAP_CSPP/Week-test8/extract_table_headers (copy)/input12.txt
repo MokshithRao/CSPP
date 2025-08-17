@@ -1,0 +1,1 @@
+<table><tr><th>Header1</th></tr></table><div>Some other content</div><table><tr><th>Header2</th></tr></table>
